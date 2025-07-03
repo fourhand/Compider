@@ -1,0 +1,6 @@
+{
+  "name": "Example A2A Agent",
+  "description": "Demo agent that generates simple action plans",
+  "type": "web",
+  "version": "0.1"
+}
